@@ -1,12 +1,7 @@
-<p align="left"></p>
-<h1>Douglas Roque</h1>
+<h2>Douglas Roque</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dgroque" alt="LinkedIn" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-2f4faf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgroque" alt="LinkedIn"/></a>
-  <a href="mailto:roque.dev@proton.me?subject=Contato%20" title="ProtonMail" target="_blank">
-    <img src="https://img.shields.io/badge/-roque.dev@proton.me-2f4faf?style=flat-square&labelColor=2f4faf&logo=protonmail&logoColor=white&link=mailto:roque.dev@proton.me?subject=Contato%20&body=Vamos%20elaborar%20um%20projeto%20" alt="ProtonMail"/></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgroque/)](https://www.linkedin.com/in/dgroque/)
+[![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white&link=mailto:roque.dev@proton.me)](mailto:roque.dev@proton.me)
 
 * 💻 Desenvolvedor Front-end
 * 📚 Cursando Análise e Desenvolvimento de Sistemas pela [Estácio](https://estacio.br/)
